@@ -5,7 +5,7 @@ import android.graphics.Typeface;
 
 import axxessio.com.showcaseviewlibrary.Shape.Shape;
 
-class ShowcaseConfig {
+public class ShowcaseConfig {
     public static final String DEFAULT_MASK_COLOUR = "#dd335075";
 
     private long mDelay = -1;

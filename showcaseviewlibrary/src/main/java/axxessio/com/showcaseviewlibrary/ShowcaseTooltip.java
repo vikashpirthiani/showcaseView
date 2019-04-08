@@ -25,7 +25,7 @@ import android.widget.TextView;
 
 import java.util.Arrays;
 
-class ShowcaseTooltip {
+public class ShowcaseTooltip {
     private View rootView;
     private View view;
     private TooltipView tooltip_view;
